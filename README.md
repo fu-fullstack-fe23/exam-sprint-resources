@@ -22,6 +22,7 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 ## Middy
 
 * [Middy](https://middy.js.org/)
+* [Serverless Framework and Request Validation](https://www.youtube.com/watch?v=wV-OldL8wsc&t=112s)
 
 ## JWT
 
