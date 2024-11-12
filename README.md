@@ -35,3 +35,11 @@ Kommer...
 ## S3 Buckets
 
 * [Ladda upp bild i S3 bucket](https://vimeo.com/857088650/4c44e8a1a0)
+
+## Lecture Code
+
+* [12 nov, middy & render](https://github.com/fu-fullstack-fe23/week-46-lecture-middy-render.git)
+
+## Lecture Movies
+
+* [12 nov, middy & render](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EZWBSQOlMMJNkN2gMBbD5eYBxJSM6CmKBZSjscc0O_CtEA?e=tbtqLz)
