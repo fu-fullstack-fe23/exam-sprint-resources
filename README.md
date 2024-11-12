@@ -31,3 +31,7 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 ## Content Security Policy
 
 Kommer...
+
+## S3 Buckets
+
+* [Ladda upp bild i S3 bucket](https://vimeo.com/857088650/4c44e8a1a0)
