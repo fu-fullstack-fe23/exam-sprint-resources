@@ -27,6 +27,8 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 ## JWT
 
 * [JWT Authentication Tutorial](https://www.youtube.com/watch?v=mbsmsi7l3r4)
+* [Sessioner och JWT - Koncept](https://vimeo.com/818261075/a180ef090a?tq=#t=401)
+* [Sessioner och JWT - Kodexempel](https://vimeo.com/818261111/5cd320acda?tq=#t=1175)
 
 ## Content Security Policy
 
