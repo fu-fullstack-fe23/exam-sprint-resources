@@ -29,10 +29,12 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 * [JWT Authentication Tutorial](https://www.youtube.com/watch?v=mbsmsi7l3r4)
 * [Sessioner och JWT - Koncept](https://vimeo.com/818261075/a180ef090a?tq=#t=401)
 * [Sessioner och JWT - Kodexempel](https://vimeo.com/818261111/5cd320acda?tq=#t=1175)
+* [Middy och JWT i AWS - Kodexempel](https://vimeo.com/865461470/4c95f2da87)
 
 ## Content Security Policy
 
-Kommer...
+* [Cross Site Scripting - YouTube](https://www.youtube.com/watch?v=ns1LX6mEvyM)
+* [Constent Security Policy med Christoffer](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Distans/EZux7Pqoy2lPpXGFfjVjdoQBh5lOHRqprHKgajmRM_3Wmw?e=bOrkfX) (Säg till om länken inte funkar!)
 
 ## S3 Buckets
 
