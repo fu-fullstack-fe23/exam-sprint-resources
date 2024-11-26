@@ -42,8 +42,10 @@ Kommer...
 
 * [12 nov, middy & render](https://github.com/fu-fullstack-fe23/week-46-lecture-middy-render.git)
 * [19 nov, authentication & authorization](https://github.com/fu-fullstack-fe23/week-47-lecture-jwt-mm)
+* [26 nov, Content Security Policy](https://github.com/fu-fullstack-fe23/week-48-lecture-csp)
 
 ## Lecture Movies
 
 * [12 nov, middy & render](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EZWBSQOlMMJNkN2gMBbD5eYBxJSM6CmKBZSjscc0O_CtEA?e=tbtqLz)
 * [19 nov, authentication & authorization](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EepKq1cOgxZPph8QLM7LqaIBdOImRLmvY9IlzEywADyXJg?e=tcDt0G)
+* [26 nov, Content Security Policy](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/ESkssbhJVzJJq3UCo_iM0wMBTQ8GcFQSLSSqbUxIkDBu2w?e=oKshgb)
